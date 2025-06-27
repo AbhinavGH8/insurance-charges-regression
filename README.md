@@ -56,7 +56,7 @@ The notebook includes:
 
 ## ▶️ Run This Notebook in Colab
 
-[![Open In Colab](https://colab.research.google.com/drive/1NpKkXIF7xv4KEugrhK-KrS8AWY2CoNIN?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NpKkXIF7xv4KEugrhK-KrS8AWY2CoNIN)
 
 ---
 By
